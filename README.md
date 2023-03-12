@@ -16,6 +16,8 @@ Projemden bazı kaynak kodlarını ve projenin çalışır halini aşağıda gö
 
 ![iki](https://user-images.githubusercontent.com/94785926/224571511-7db48f5c-1090-47fe-81d5-d61eb1d397d6.png)
 
+![ekrann](https://user-images.githubusercontent.com/94785926/224571837-fdc06ca7-7dba-45e9-a3bd-3f850b409374.png)
+
 ![kod1](https://user-images.githubusercontent.com/94785926/224571558-d5d66822-cfe2-404a-ad08-1702cba19d84.png) 
 
 ![uc](https://user-images.githubusercontent.com/94785926/224571569-5c5826bb-ffa3-411e-a850-48febf964f16.png)
